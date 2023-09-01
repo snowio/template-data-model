@@ -1,6 +1,6 @@
 <?php
 
-namespace SnowIO\BrightpearlDataModel\Test\Unit\Contact;
+namespace SnowIO\BrightpearlDataModel\Test\Unit\ModelExample;
 
 use PHPUnit\Framework\TestCase;
 use SnowIO\BrightpearlDataModel\ModelExample;
